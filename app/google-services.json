@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "649560709622",
+    "firebase_url": "https://extra-e4e9c.firebaseio.com",
+    "project_id": "extra-e4e9c",
+    "storage_bucket": "extra-e4e9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649560709622:android:31f288b5f21833bb48cfd7",
+        "android_client_info": {
+          "package_name": "com.example.firebasesocialmediaappoct"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649560709622-3od8llvodvrganlim2fj04k9q4a3cik0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_JFuhWiSDjTsNfIgy7T6giLzvEiaLLGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649560709622-3od8llvodvrganlim2fj04k9q4a3cik0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649560709622:android:b2d2d8e27b4ce46948cfd7",
+        "android_client_info": {
+          "package_name": "com.example.makeanandroidapplikealiexpressamazon_"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649560709622-3od8llvodvrganlim2fj04k9q4a3cik0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_JFuhWiSDjTsNfIgy7T6giLzvEiaLLGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649560709622-3od8llvodvrganlim2fj04k9q4a3cik0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649560709622:android:5159dac21a95da2e48cfd7",
+        "android_client_info": {
+          "package_name": "com.saifi369.fcmdemoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649560709622-3od8llvodvrganlim2fj04k9q4a3cik0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_JFuhWiSDjTsNfIgy7T6giLzvEiaLLGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649560709622-3od8llvodvrganlim2fj04k9q4a3cik0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
